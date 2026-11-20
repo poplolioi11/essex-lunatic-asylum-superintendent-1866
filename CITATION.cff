@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
-  "title": "埃塞克斯精神病院醫務督導報告（1866） / Report of the Medical Superintendent of the Essex Lunatic Asylum — Transcription Dataset",
+  "title": "埃塞克斯精神病院醫務督導報告(1866) / Report of the Medical Superintendent of the Essex Lunatic Asylum — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
@@ -26,5 +26,6 @@
     "trial discharge",
     "night attendants",
     "Benevolent Fund"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24383462"
 }
