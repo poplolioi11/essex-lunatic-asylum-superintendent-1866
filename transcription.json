@@ -1,0 +1,260 @@
+{
+  "source_title": "Report of the Medical Superintendent of the Essex Lunatic Asylum",
+  "title_zh": "埃塞克斯精神病院醫務督導報告（1866）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://wellcomecollection.org/works/bxpnm2ua",
+  "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b30307223",
+  "source_ocr": "https://archive.org/details/b30307223",
+  "shelfmark": "b30307223",
+  "source_provider": "Wellcome Collection",
+  "historical_institution": "D. C. Campbell",
+  "imprint": "Chelmsford: Printed by John Dutton, 1866, pp. 11–18",
+  "rights": "The nineteenth-century printed text is in the public domain. The source images are linked for verification. CC BY 4.0 applies to new editorial material and encoding wherever copyright applies.",
+  "coverage_note": "Complete signed Report of the Medical Superintendent for the year reported in January 1866, original printed pages 11–18. The following separately headed Tables and other reports in the volume are outside this document.",
+  "frames": [
+    {
+      "id": "f011",
+      "frame": 11,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0011.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0011.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0011.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "78eb8c04b7eded77102619144e2afa572e85c9113d8503c98ed543ee9cf0f35f"
+      },
+      "parts": [
+        {
+          "id": "f011-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "REPORT\nOF THE MEDICAL SUPERINTENDENT.\nTO THE CHAIRMAN AND VISITORS OF THE\nESSEX LUNATIC ASYLUM.\nGENTLEMEN,\nAnother year having elapsed it again becomes my duty to submit\nto you a report of the condition and management of the Asylum\nduring the last twelve months.\nNothing exhibits more strikingly the progress of an enlightened\nand humane philosophy than the alterations which have taken place\nin the system and management of Hospitals devoted to the treatment\nof the Insane. Such institutions at one time wore an aspect widely\ndifferent from what they do at present. The lunatic of former days\nwas looked upon with a singular mixture of dread and pity, was\nregarded as the victim of a peculiar and mysterious malady of mind,\nand as such placed beyond the pale of humanity by a disease which\nwas not amenable to the usual resources of medical science. The\ntime however has happily now passed when it was necessary formally\nto maintain the advantage which society derives from the establish-\nment of Hospitals for the Insane. These institutions are now uni-\nversally regarded as being quite as essential to the public welfare as\nHospitals for the bodily sick, or any of the other Institutions intended\nto promote the moral or physical well-being of man. I am glad to\nreport that nothing has occurred during the past year to interfere",
+              "id": "f011-s-u01"
+            }
+          ],
+          "notes": [
+            "Unnumbered opening leaf identified as page 11 by the next printed page."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f012",
+      "frame": 12,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0012.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0012.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0012.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "cc160e5c576fb794a42666e2c165e9c8cc26f4eda1714fd5bf03e781de227981"
+      },
+      "parts": [
+        {
+          "id": "f012-s",
+          "side": "S",
+          "printed_page": "12",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "with the successful working of the Establishment over which you\npreside, and that there have been very few occurrences out of the\nusual routine of such an institution which call for any special\nremark.\nOn the 25th December, 1864, there were 550 Patients in the\nAsylum: namely, 232 Males and 318 Females, of which number\n491 were reported as incurable and remained with no prospect of\nbeing again restored to the blessings of sound intellect. During the\npast year 150 Patients have been admitted into the Asylum: namely,\n62 Males and 88 Females, of which number many were in a state\nof confirmed and incurable insanity, having presented from the first\nhopeless forms of the disease. Notwithstanding the number of\nChronic cases 83 were restored to their friends, recovered; 4 were\nremoved, improved; 2 unimproved; and 57 died. There now remain\nin the Establishment, 236 Males and 318 Females—Total 554.\nThe daily average number resident was 548.\nThe proportion of recoveries effected presents a very gratifying\nresult and exceeds that of any former year, being 55 per cent, on\nthe admissions, and the greatest number of recoveries having been\nin cases where the insanity was of short duration adds fresh evidence\nof the importance as stated in some of my former reports, of a very\nearly attention and application of medical and moral treatment to\nthe first access of mental alienation. I, therefore, deem it proper\nagain to call the attention of Boards of Guardians, and of the friends\nand relatives of the Insane, to the advantage of placing the afflicted\nobjects of their solicitude in an Establishment especially adapted to\nthe treatment and cure of the disease, immediately it makes its\nappearance, humanity and sound economy alike indicating such a\ncourse. It gives your Medical Superintendent much pleasure to\nreport particularly the recovery of two Female Patients in whom\nmental disorder had existed so long that there appeared no proba-\nbility of a favourable termination, such cases being of very rare\noccurrence. The two cases thus happily terminated had been each\nten years inmates of the Institution. They were both very poor,\nand received assistance from the Benevolent Fund to supply\nthemselves with clothing on their discharge, and since leaving the\nInstitution very grateful letters have been received from both giving",
+              "id": "f012-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f013",
+      "frame": 13,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0013.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0013.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0013.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "f205e7f3eff3ede5210fbcae7f68b377a865b5b11eff5aa191ffa8a1e31b11d1"
+      },
+      "parts": [
+        {
+          "id": "f013-s",
+          "side": "S",
+          "printed_page": "13",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "satisfactory accounts of their continued convalescence. While it is\ngratifying thus to know that from time to time so many who from\nthe dispensations of Providence have been sent to the Asylum, have,\nafter a shorter or longer residence, been restored to ordinary health\nand returned home, it must also be understood that it is not only\nthe cured who are benefited. There are a great many Patients now\nin the House who, while permitted to retire from the gaze of busy\nlife and subjected to kind care and treatment, enjoy comparative\nexemption from the more distressing manifestations and miseries of\ntheir condition; but who, if otherwise treated, would have their\nmalady exasperated and be exposed to untold miseries.\nWhile the number of recoveries has been much above the average\nthe deaths have been in about the ordinary proportion, but fewer\nthan last year.\nIt is impossible to make any accurate comparison of the mortality\nof one year with another since much depends on the condition in\nwhich Patients are received into the House; instances frequently\noccurring where the Patients have been received in a dying state,\nand where no amount of care or attention could prolong life beyond\na few days. The large number of deaths recorded in the Obituary\nas having taken place from Paralysis, Epilepsy, and old age most\nsatisfactorily account for the mortality, many of the deaths at the\nsame time really suggesting the reflection that their removals in the\nonly way that could terminate conditions of mind and body, of either\nhopeless derangement or deplorable suffering were certainly not\ncircumstances which could be looked upon with regret. I have also\nto record this year the death of a Male Attendant, a very intelligent\nand well conducted young man, who died of Typhoid Fever (the\nfirst Official who has died in the Asylum since its opening); he\nhad only been a short time in the Establishment, and had it pleased\nGod to spare him, he would have proved himself a very valuable\nservant. The circumstances attending the deaths of four epileptic\nPatients were submitted to the investigation of the Coroner and a\njury. The verdict in each case was natural death from Epilepsy.\nFour accidents occasioning fractured bones happened during the\nyear. The first received fracture near the shoulder joint by a fall;\nthe second fell when in a fit and fractured the arm; the third received",
+              "id": "f013-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f014",
+      "frame": 14,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0014.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0014.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0014.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "45e84abba61be1cd274a3e72b7005ebfe1ed9fcfc9830e5ba971055bb7769fd5"
+      },
+      "parts": [
+        {
+          "id": "f014-s",
+          "side": "S",
+          "printed_page": "14",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "fracture of the leg by falling when in a fit; and the fourth received\ndislocation of the shoulder joint when fighting with one of his fellow\nPatients. All the cases terminated satisfactorily.\nThe probationary clause in the Act of Parliament which gives\npower to send convalescent Patients out on trial previous to their\nbeing removed from the books of the Asylum was taken advantage\nof in several instances, and, save in two cases, the trial had a favour-\nable issue. The small allowance made by your Committee for\nmaintenance during the term of probation was in all cases of essen-\ntial service, by diminishing at a time most important to the mental\nhealth of the Patients the pressure of poverty, and by allowing a\ngradual return to dependence on their labour. I may again take\nthis opportunity of giving publicity to the beneficial assistance which\nhas in many instances been rendered from the Benevolent Fund to\nseveral Patients on their discharge, who would otherwise have\nlaboured under difficulties, and perhaps discouragements, of a pecu-\nliarly harassing nature in their endeavours at first to obtain employ-\nment, at a time too when ill able to contend against them.\nA very large number of applications have been made by the\nfriends of Patients to have their afflicted relatives again under their\nown care, but in very few cases could I recommend your Committee\nto sanction such a course. Friends are too apt to be deceived by\nthe apparent calmness, self-possession, and improved health of the\nPatient; and becoming importunate and urging the old and fallacious\nargument—that if they are quiet in the Asylum they will be so at\nhome, assist in increasing the desire of the Patient for a premature\nrestoration to society. It is a well known fact that many of the\ninsane who are noisy and totally unmanageable by their friends,\nbecome calm and docile when in an Asylum. Such a change does\nnot indicate the cessation of disease, but only that it is held in check\nby the varied influences brought to bear upon it. Many of the\nInmates who are cheerful and contented, constantly occupied during\nthe day, entering with pleasure into all the amusements afforded\nthem, would soon relapse to their former condition if restored pre-\nmaturely to the exciting causes of their malady.\nFor twelve years this Establishment has been conducted without\nthe slighest resort to personal restraint, and the system has always",
+              "id": "f014-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f015",
+      "frame": 15,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0015.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0015.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0015.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "adf72ff50d78e3baeb80df835b1fea03c4cf9c61d068f027882ccd66cfb0d615"
+      },
+      "parts": [
+        {
+          "id": "f015-s",
+          "side": "S",
+          "printed_page": "15",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "been attended with the best results. This year, however, the conduct\nof one Male Patient was so outrageous, and his propensities so\nferocious and destructive, that I found it necessary to depart in this\ncase from my usual practice and subject him to coercion. A room\nof great strength made expressly for violent Patients was not\nsufficiently strong to baffle his efforts. He burst open the panels of\nthe door, smashed the shutters and the iron frame of the window,\nand destroyed every pane of glass. Finding no room strong enough\nto withstand his fury, I found it necessary to fix his hands for some\nhours until the tradesmen could make a room strong enough to stop\nhis evidently malicious satisfaction. I mention this case as it is the\nfirst instance in which personal restraint has been used in this\nAsylum, while nearly two thousand Patients have been under\ntreatment.\nThe new detached buildings which were opened on the 29th of\nAugust, 1863, to receive seventy five Patients are now nearly occu-\npied principally by the men employed on the farm, and in the\nworkshops, and by convalescents. Experience now enables me to\nspeak with confidence of the advantages of separate and detached\nbuildings with the upper floors entirely used as bedrooms, and the\nground floors as day rooms, over Asylums built in one large block,\nsuch buildings being places of greater quietude, and freedom are\nmore like private dwellings, lessen the feeling of confinement, render\nmore cheerful and happy that section particularly of the Patients\nwhose mental conditions least require arrangements for general\nsafety, and as regards good ventilation are in every way superior.\nI cannot speak too highly of the advantages derived from the\nsystem of having regular night attendants on both sides of the\nEstablishment, their duties being to attend to the infirm and dirty\nPatients, visit the sick and epileptic inmates, administer medicine,\ndrinks, nourishment, &c., to those under medical treatment and\nexercise, a special vigilance over the suicidally disposed and turbulent.\nThe character and conduct of those in immediate attendance on\nthe insane being of the greatest importance, every endeavour is made\nby me to find persons well qualified for such duty. No kindness,\ntact or skill on the part of the heads of the Establishment, no medical\nor moral treatment employed by the physician can counterbalance or",
+              "id": "f015-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f016",
+      "frame": 16,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0016.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0016.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0016.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "758366d058308869315cfec80b9a5fd9b963831ab0092472e494aa84402b542c"
+      },
+      "parts": [
+        {
+          "id": "f016-s",
+          "side": "S",
+          "printed_page": "16",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "counteract a want of the proper qualities on the part of the inferior\nattendants. The principal qualifications required are patience and\ncommand of temper, kindness in order to win the affections of the\nPatients, with firmness to gain their respect, observation sufficient\nto detect all the peculiarities of temper, disposition, and habits of\nthose committed to their care, and tact enough to make this know-\nledge available in the management of them. With few exceptions,\nI can report favourably of their conduct.\nSeveral recovered Patients have visited the Asylum to see those\nconcerned in its management, and also their old acquaintances,\nevincing in a striking manner that they remember with gratitude the\nkindness they themselves experienced during their own abode here.\nThere have been as must be expected several attempts at escape\nmade in different ways, but none of them have been permanently\nsuccessful.\nAs in former years, I have endeavoured to promote as much as\npossible the employment and amusement of the Patients. The\nvariety of employments in the Male Department is somewhat limited\nfrom the fact of so large a number of the Patients here, being from\nrural districts. Looking however to the curative influence of occu-\npation, it is generally found that Agricultural Labour is the best,\nfrom its always ensuring to the Patients the advantages of exercise\nin the open air. Field and garden operations then have been the\nprincipal employments, whilst Shoemaking, Smith’s-Work, Carpen-\ntry, Tailoring and Bricklaying have been pursued also by a few\nPatients. In the Tailor and Shoemaker’s shops some Patients are\nemployed who had never before worked at these trades, and are now\nbecoming useful. The number of men employed on the 23rd of\nDecember, 1865, was 148: namely, at Farm and Garden Labour 55;\nat Shoemaking 6; at Carpentry 2; at Smith’s-Work 2; at Tailoring\n5; at Bricklaying 1; at Baking 2; at Household-Work 64; and 11\nin reading, writing, &c. The number of women employed on the\nsame day, was 175: namely, 26 in Laundry and Washhouse; 9 in\nthe kitchen; 69 at Needlework and Knitting; 56 at Household-Work;\nand 15 in reading, writing, &c.—Total 323, which was about the\ndaily average. The amusements have consisted of Draughts,\nBagatelle, Cards, Dominoes, Books, Periodicals, and Newspapers, all\ntending to relieve the monotony of Asylum life.",
+              "id": "f016-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f017",
+      "frame": 17,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0017.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0017.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0017.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "f594414e9f6001544baddc47ccc73575fbfe4fa90e8f069d8cec2f6a2b71533c"
+      },
+      "parts": [
+        {
+          "id": "f017-s",
+          "side": "S",
+          "printed_page": "17",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "During the summer months out-door games are amply provided,\nand continue to exert great influence in restoring the Patients to\nhealth of mind and body, and in rendering them cheerful and con-\ntented. During the winter months we assemble at different times a\nlarge number of the Inmates for singing, dancing, private theatricals\nand music. The limited space at our command last winter, on\naccount of the increase in our numbers, was sometimes a source of\nregret. By the enlargement of the Recreation Hall, which received\nthe sanction of your Committee, this defect is remedied, and the\nroom is now large enough to receive a much larger number of the\nPatients. Such meetings are not only means of enjoyment to the\nPatients, but they create and keep up feelings of harmony and good\nfellowship between them and their Attendants. Walking parties\ninto the country and sometimes more distant excursions also continue\nto be looked forward to with much interest; in fact kind treatment,\nsoothing conversation, and consolatory counsel, inspiring confidence\nand friendship; the exercise of the mental, moral, and physical\npowers contributing to health of body and tranquility of mind, are\nmeasures practised as far as possible towards the Inmates of the\nAsylum.\nDr. Harrison, who had been my Medical Assistant for nearly six\nyears, having been selected from a long list of candidates as Medical\nSuperintendent of the Asylum at Adelaide, South Australia, left\nhere on the 3rd of August last to proceed to that Colony, to begin\nhis new duties. He left this Asylum much esteemed by the Officers,\nAttendants, and Patients, and with all our sincere wishes for his\nfuture happiness. I am glad to report to you that Dr. Gilland, since\nhis appointment as his successor, has quite justified the high recom-\nmendations he produced, and that he is everything 1 could desire as\na Physician and Assistant.\nFrom the other Officers I have also received much assistance, and\nthe same harmonious feeling noticed by me with pleasure in former\nreports continues to exist between them.\nIn conclusion, permit me to thank you for your continued liber-\nality and courtesy to me, and to assure you that, as Medical Super-\nintendent of an Institution which has for its object the removal or\nalleviation of the most painful malady with which humanity can be",
+              "id": "f017-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f018",
+      "frame": 18,
+      "source": {
+        "canvas": "https://iiif.wellcomecollection.org/presentation/b30307223/canvases/b30307223_0018.jp2",
+        "url": "https://iiif.wellcomecollection.org/image/b30307223_0018.jp2/full/full/0/default.jpg",
+        "original_url": "https://iiif.wellcomecollection.org/image/b30307223_0018.jp2/full/full/0/default.jpg",
+        "size": [
+          2150,
+          3903
+        ],
+        "sha256": "67af5dd9d83caf7060e05321bf60b053f130080a30b4a6b12c11e3959f0ead25"
+      },
+      "parts": [
+        {
+          "id": "f018-s",
+          "side": "S",
+          "printed_page": "18",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "afflicted, I am not insensible of the importance of the situation which\nI occupy, and of the attention, zeal, and assiduity necessary to a\nproper discharge of its duties; and to say, that my best exertions\nwill continue to be devoted to promote the prosperity and increase\nthe usefulness of the Essex Asylum, over which you have been called\nto preside.\nI am,\nGENTLEMEN,\nYour obedient Servant,\nD. C. CAMPBELL, M.D.,\nMEDICAL SUPERINTENDENT.\n1st Jan., 1866.",
+              "id": "f018-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    }
+  ],
+  "source_rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
